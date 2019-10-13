@@ -1,0 +1,11 @@
+# Develop a template as such:
+
+  ## For each programming language, make sure you have --
+1.  A Brief Introduction (Time when it's published, Specialty, Popularity, etc.)
+2.  A short example of the code (Hello world/For Loop)
+3.  Your personal experience with the language (if any)
+
+  ##Then have a individual file that cross-compares these languages (Specialty, DOB, Popularity, Simple code example)
+* As a challenge, Try to find an image that best-represents each language
+
+Good luck!
