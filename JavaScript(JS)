@@ -1,0 +1,42 @@
+  JavaScript
+  
+ Date Of Birth:  1993
+1.JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
+
+2.
+
+	hello world:
+  
+Code:
+
+text(“string”,x,y)
+
+HH:
+
+text(“hello world”,x,y)
+
+HH in the center
+
+text(“hello world”,200,200)
+
+	for:
+  
+var i;
+
+for (i = 0; i < [array-to-add.length; i++) { 
+
+  text += array-to-add[i] + “<br>";
+  
+}
+
+The “<br>” is just for braking line
+
+3.
+	my experience Is:
+	
+	JavaScript is good for drawing shapes as simple as:
+  
+			ellipse(x,y,height,width)
+
+
+
