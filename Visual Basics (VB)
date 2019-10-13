@@ -1,0 +1,20 @@
+Visual Basic
+Info
+Parent: Microsoft Corporation 
+Age: 28 years old
+Popularity: 5th (2018)
+
+Introduction
+First released in 1991, Visual Basic is an event-driven programming language from Microsoft.
+VB is built upon BASIC, and it was aimed to help user produce GUI (graphical user interface) 
+applications with ease (which was groundbreaking at the time).
+Compared with other languages such as C and C++, VB is a visual development tool that’s easier to learn, although it might be slower to write with, yet more flexible. 
+Many would argue that Visual Basics went into decline after VB6, though VB.NET (object-oriented, updated version of VB6) remains the fifth most-popular programming language as of today. Nevertheless, VB.NET is slowly being replaced by its modern peer, C#, but it’s still a starting point for a lot of beginners. 
+
+Code Example (In VB.NET):
+Module HelloWorld
+   ' every console app starts with Main
+      Sub Main( )
+         System.Console.WriteLine("Hello World")
+      End Sub
+   End Module
