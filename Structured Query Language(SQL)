@@ -5,13 +5,13 @@
 	I can’t do a “hello world” example, but I’m going to use a list to show you.
 
 
-[———-----------------------------------------------------------------------------]
+[———-----------------------------------------------------------------------------------]
 [	CREATE TABLE groceries (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER ); ]
-[                                                                                ]
+[                                                                                      ]
 [	INSERT INTO groceries VALUES (1, "Bananas", 4);                                ]
 [	INSERT INTO groceries VALUES (2, "Peanut Butter", 1);                          ]
 [	INSERT INTO groceries VALUES (3, "Dark chocolate bars", 2);                    ]
-[———-----------------------------------------------------------------------------]
+[———-----------------------------------------------------------------------------------]
 
 
 This is an example of a groceries list:
