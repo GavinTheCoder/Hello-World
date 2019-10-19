@@ -1,0 +1,25 @@
+Python
+
+	python, is a programming language, that is a very good start for early programer, 
+  it’s more easier to be understand. It’s good for “calculating”, typing. 
+  It’s published in 1990.
+	
+	A short example:
+  ---------------------------
+		Hello World:
+	The Code:	
+	print(“string”)
+	The example:
+	print(“hello world”)
+-----------------------------
+		For Loop:
+	The Code:
+  ---------------------------
+	for( [variable] in range([start],[end]):
+		THE CODE
+	example( print out the EVEN NUMBER from 8 to 40 ):
+		for x in range(8,40):
+			if x % 2 == 0:
+				print(”the even number:”+x)
+-----------------------------
+My personal experience is that It’s pretty good, you can basically do every things, even draw.
